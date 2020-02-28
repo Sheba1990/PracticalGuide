@@ -1,3 +1,5 @@
+package practice;
+
 //#6
 public class SubjectDemo {
     public static void main(String[] args) {

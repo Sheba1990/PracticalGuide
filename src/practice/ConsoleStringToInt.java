@@ -1,3 +1,5 @@
+package practice;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -28,6 +30,7 @@ public class ConsoleStringToInt {
 
             }
             System.out.print("massive: ");// prints out all in console in one row
+
             for (int i = 0; i < 3; i++) {
                 //cycle which works until it reaches less than 3
 

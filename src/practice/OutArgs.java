@@ -1,3 +1,5 @@
+package practice;
+
 //#2
 public class OutArgs {
     public static void main(String[] args) {

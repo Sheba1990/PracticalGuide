@@ -1,3 +1,5 @@
+package practice;
+
 //#5
 class Subject {
     public String name;

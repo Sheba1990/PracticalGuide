@@ -1,3 +1,5 @@
+package practice;
+
 //#7
 public class ComparingStrings {
     public static void main(String[] args) {
